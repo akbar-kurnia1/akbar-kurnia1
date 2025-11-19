@@ -31,7 +31,6 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=akbar-kurnia1&label=Profile%20Views&color=1F70C1&style=for-the-badge" alt="akbar-kurnia1's Profile Views"/>
-  <img src="https://img.shields.io/github/followers/akbar-kurnia1?label=GitHub%20Followers&style=for-the-badge&logo=github&color=30363D" alt="GitHub Followers"/>
 </p>
 
 <hr/>
