@@ -53,7 +53,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight" 
+        src="https://github-readme-stats-2bh9.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight&count_private=true" 
         alt="akbar-kurnia1's GitHub Stats" 
       />
     </td>
@@ -72,7 +72,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbar-kurnia1&layout=compact&theme=tokyonight&exclude_lang=jupyter+notebook" 
+    src="https://github-readme-stats-2bh9.vercel.app/api/top-langs/?username=akbar-kurnia1&layout=compact&theme=tokyonight&exclude_lang=jupyter+notebook&count_private=true&card_width=500" 
     alt="akbar-kurnia1's Top Languages" 
   />
 </p>
