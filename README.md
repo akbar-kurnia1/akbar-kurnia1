@@ -53,7 +53,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats-2bh9.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight&count_private=true" 
+        src="https://github-readme-stats-2bh9.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
         alt="akbar-kurnia1's GitHub Stats" 
       />
     </td>
