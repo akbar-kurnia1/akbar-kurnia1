@@ -145,10 +145,27 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
-<!-- Activity Graph -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br/>
+
+## 💡 Random Dev Quote
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akbar-kurnia1&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1F6FEB&hide_border=true" alt="Activity Graph" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%" />
+
+</div>
+
+<br/>
+
+## 🤓 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" width="70%" />
 
 </div>
 
