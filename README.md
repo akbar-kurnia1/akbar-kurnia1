@@ -1,89 +1,158 @@
 <div align="center">
 
-## Hi, I'm Akbar Kurniawan 👋
-#### Front-End | Software Engineer | Tech Enthusiast
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Akbar%20Kurniawan&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Front-End%20|%20Software%20Engineer%20|%20Tech%20Enthusiast&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Akbar+Kurniawan" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
 I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics student at Sriwijaya University, currently focusing my studies on the Electronics Instrumentation, Computational and Nuclear Physics (ELINKOMNUK) research group. This path sparked my curiosity in web programming, a field I'm now passionately exploring.
 
 <br/>
-💡 <i>"Code is where creativity meets logic."</i> ✨
+
+<div align="center">
+
+> 💡 *"Code is where creativity meets logic."* ✨
+
+</div>
 
 <br/>
 
-<hr/>
-
-### 💬 Connect with Me
-<p>
-  <a href="mailto:akbarkurniawan790@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akbarkurnia1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/akbar_krnwn27">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=akbar-kurnia1&label=Profile%20Views&color=1F70C1&style=for-the-badge" alt="akbar-kurnia1's Profile Views"/>
-</p>
-
-<hr/>
-
-### 🧠 Skills
-<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></p>
-
-<hr/>
-
-### 🛠️ Tools
-<p><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/></p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
 <br/>
 
-<hr/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
-### 📊 GitHub Statistics
+<div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-readme-stats-2bh9.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-        alt="akbar-kurnia1's GitHub Stats" 
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
-        src="https://streak-stats.demolab.com/?user=akbar-kurnia1&theme=tokyonight" 
-        alt="akbar-kurnia1's GitHub Streak" 
-      />
-    </td>
-  </tr>
-</table>
+### 🌐 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,python,tensorflow,matlab,cpp&theme=dark&perline=7" alt="Tech Stack" />
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,vercel,npm&theme=dark&perline=6" alt="Tools" />
+
+</div>
 
 <br/>
 
-### 💻 Most Used Languages
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats-2bh9.vercel.app/api/top-langs/?username=akbar-kurnia1&layout=compact&theme=tokyonight&exclude_lang=jupyter+notebook&count_private=true&card_width=500" 
-    alt="akbar-kurnia1's Top Languages" 
-  />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
 <br/>
 
-### 🏆 Top Contributed Repos
+## 💬 Connect with Me
 
-<p align="left">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=akbar-kurnia1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-    alt="akbar-kurnia1's Top Contributed Repos" 
-  />
-</p>
+<div align="center">
+
+<a href="mailto:akbarkurniawan790@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Gmail" height="48"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akbarkurnia1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" height="48"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/akbar_krnwn27">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" alt="Instagram" height="48"/>
+</a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/akbar-krnwn/">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white&logoSize=auto" alt="Steam" height="48"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akbar-kurnia1&label=👁️+Profile+Views&color=58A6FF&style=flat-square&labelColor=0D1117" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-2bh9.vercel.app/api?username=akbar-kurnia1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com/?user=akbar-kurnia1&theme=tokyonight&border_radius=10&border=1F6FEB&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats-2bh9.vercel.app/api/top-langs/?username=akbar-kurnia1&layout=compact&theme=tokyonight&exclude_lang=jupyter+notebook&count_private=true&border_radius=10&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&card_width=500" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://gh-trophy.cdnsoft.net/?username=akbar-kurnia1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akbar-kurnia1&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1F6FEB&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<br/>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" />
