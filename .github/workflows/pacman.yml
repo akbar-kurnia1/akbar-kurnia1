@@ -1,4 +1,4 @@
-name: Generate Pac-Man
+name: Generate Arcade Games
 
 on:
   schedule:
@@ -15,10 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate pacman-contribution-graph
+      - name: Generate arcade contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,galaga'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
