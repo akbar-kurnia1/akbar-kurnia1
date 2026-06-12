@@ -67,16 +67,16 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 <div align="center">
 
 <a href="mailto:akbarkurniawan790@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Gmail" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akbarkurnia1">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/akbar_krnwn27">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" alt="Instagram" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" alt="Instagram" height="48" />
 </a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/akbar-krnwn/">
-  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white&logoSize=auto" alt="Steam" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=steam&theme=dark" alt="Steam" height="48" />
 </a>
 
 <br/><br/>
@@ -131,7 +131,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🐍 Snake Games
 
 <div align="center">
 
@@ -145,7 +145,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
-## 🟡 Pac-Man Contribution Graph
+## 🟡 Pac-Man Games
 
 <div align="center">
 
