@@ -159,6 +159,20 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
+## 🚀 Galaga Games
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/galaga-contribution-graph.svg" />
+  <img alt="galaga-contribution-graph" src="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/galaga-contribution-graph-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
