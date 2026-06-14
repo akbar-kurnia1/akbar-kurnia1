@@ -4,8 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Akbar%20Kurniawan&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Front-End%20|%20Software%20Engineer%20|%20Tech%20Enthusiast&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing Animation -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="👋" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Akbar+Kurniawan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Hi+there%2C+I'm+Akbar+Kurniawan;I'm+Physics+student+by+day+%E2%9A%9B%EF%B8%8F%F0%9F%8F%99%EF%B8%8F;Front-end+developer+by+night+%F0%9F%92%BB%F0%9F%8C%83" alt="Typing SVG" />
 </a>
 
 </div>
@@ -131,7 +132,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
-## 🐍 Snake Games
+## 🎮 My Contribution
 
 <div align="center">
 
@@ -141,13 +142,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
   <img alt="github-snake" src="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-</div>
-
-<br/>
-
-## 🟡 Pac-Man Games
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/pacman-contribution-graph-dark.svg" />
@@ -155,13 +150,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
   <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/pacman-contribution-graph-dark.svg" width="100%" />
 </picture>
 
-</div>
-
-<br/>
-
-## 🚀 Galaga Games
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akbar-kurnia1/akbar-kurnia1/output/galaga-contribution-graph-dark.svg" />
@@ -179,21 +168,11 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <br/>
 
-## 💡 Random Dev Quote
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%" />
-
-</div>
-
-<br/>
-
-## 🤓 Random Dev Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" width="70%" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Typing" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong><em>"mengoding"</em></strong>
 
 </div>
 
