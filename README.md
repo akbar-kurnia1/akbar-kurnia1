@@ -170,9 +170,9 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Typing" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong><em>"mengoding"</em></strong>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat Typing" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3000&pause=86400000&color=58A6FF&center=true&vCenter=true&repeat=false&width=300&height=250&lines=%E2%80%9Cmeng-ngoding%E2%80%9D" alt="meng-ngoding" />
 
 </div>
 
