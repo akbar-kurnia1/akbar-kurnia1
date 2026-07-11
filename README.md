@@ -51,7 +51,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,vercel,npm&theme=dark&perline=6" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,vercel,npm,vite,figma&theme=dark&perline=8" alt="Tools" />
 
 </div>
 
