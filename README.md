@@ -45,7 +45,7 @@ I'm Akbar Kurniawan, from Palembang, South Sumatra, Indonesia. I am a Physics st
 
 ### 🌐 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,python,tensorflow,matlab,cpp&theme=dark&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,python,tensorflow,matlab,cpp,firebase,supabase&theme=dark&perline=9" alt="Tech Stack" />
 
 <br/><br/>
 
